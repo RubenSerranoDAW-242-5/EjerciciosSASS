@@ -1,0 +1,9 @@
+# Ignore all content in __MACOSX and node_modules
+__MACOSX/
+node_modules/
+
+# Except for the specific bootstrap.scss file
+!node_modules/bootstrap/scss/bootstrap.scss
+
+# Except for lock files
+*-lock.json
