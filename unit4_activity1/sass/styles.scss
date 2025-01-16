@@ -8,6 +8,7 @@ $body-bg-color: #fcff69;
 
 $font-family-base: 'Arial, sans-serif';
 $link-hover-color: lighten($primary-color, 20%); 
+$input-border-radius: 20px;
 
 @import "../node_modules/bootstrap/scss/bootstrap";
 
